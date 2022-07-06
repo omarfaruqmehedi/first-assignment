@@ -1,0 +1,188 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    flex: 10px;
+    background-image: url(images/donation14.webp);
+    background-repeat: no-repeat;
+    margin-bottom: 150px;
+    background-size: cover;
+    height: 800px;
+    margin: 0;
+}
+
+#color {
+    color: white;
+}
+
+.mid {
+    text-align: center;
+}
+
+.mid2 {
+    text-align: center;
+}
+
+.fix {
+    font-size: 80px;
+    padding-top: 5%;
+}
+
+#set {
+    text-align: center;
+    color: darkgrey;
+}
+
+h3 {
+    color: white;
+    padding-bottom: 2%;
+}
+
+.dnt-now {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 5px;
+    padding: 20px 50px;
+    color: white;
+}
+
+.dont {
+    color: darkgrey;
+    text-align: center;
+}
+
+.donating-price {
+    display: flex;
+    justify-content: center;
+    gap: 0px 20px;
+    border-radius: 5px;
+}
+
+.donating-price h1 {
+    color: black;
+    font-size: 30px;
+    background-color: darkgrey;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+#pink {
+    background-color: pink;
+    border: 1px solid pink;
+}
+
+#taka {
+    color: darkgray;
+    padding-top: 5px;
+}
+
+.mid3 {
+    text-align: center;
+}
+
+.mid3 a {
+    margin-top: 30px;
+}
+
+hr {
+    width: 20%;
+    margin-bottom: 30px;
+}
+
+.dnt-now2 {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 5px;
+    padding: 10px 40px;
+    color: white;
+    text-align: center;
+    margin: 10%;
+}
+
+.mid4 {
+    text-align: center;
+    padding-top: 5%;
+}
+
+.display {
+    display: flex;
+    justify-content: center;
+    gap: 0px 50px;
+}
+
+.part1 {
+    background-color: lightblue;
+    width: 300px;
+    padding: 20px;
+}
+
+.part2 {
+    background-color: pink;
+    width: 300px;
+    padding: 20px;
+}
+
+.part3 {
+    background-color: lightgreen;
+    width: 300px;
+    padding: 20px;
+}
+
+.third {
+    display: flex;
+    margin-top: 50px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.forth {
+    text-align: center;
+}
+
+
+.darkgray {
+    color: darkgray;
+}
+
+.final {
+    margin-top: 60px;
+    background-color: lightgoldenrodyellow;
+    width: 700px;
+    padding: 80px;
+    margin: 0px auto;
+}
+
+.final input,
+button {
+    font-size: 30px;
+    border: none;
+    border-radius: 5px;
+    padding: 18px;
+}
+
+.final button {
+    background-color: coral;
+}
+
+footer {
+    background-color: black;
+    margin-top: 80px;
+}
+
+footer h3,
+p {
+    color: white;
+    text-align: center;
+}
+
+.footer-title {
+    padding: 40px;
+}
